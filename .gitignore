@@ -1,0 +1,2 @@
+# Abaikan file model hasil training
+*.h5
